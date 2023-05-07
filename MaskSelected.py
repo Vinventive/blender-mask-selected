@@ -7,6 +7,7 @@ bl_info = {
     "location": "Sculpt Mode > Mask",
     "category": "Sculpting"
 }
+# Feel free to tidy up the code, I'm not a programmer, I just wanted this functionality and couldn't find it anywhere :p
 
 import bpy
 import bmesh
